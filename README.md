@@ -63,6 +63,10 @@ Switched to branch 'new-branch'
 ### Step 3: Contribute
 Make relevant changes. Add new algorithms. Add Readme files. Contribute in any way you feel like :)
 
+        
+<img src="img\carbon.png"> </img>
+      
+
 ### Step 4: Commiting and Pushing:
 Once you have modified an existing file or added a new file to the project, you can add it to your local repository, which we can do with the git add command.
 
