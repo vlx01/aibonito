@@ -88,11 +88,9 @@ You can type the command ```git add -A``` or alternatively ```git add -all``` fo
 At this point, you are ready to make a pull request to the original repository.
 
 You should navigate to your **forked** repository, and press the “Compare & pull request” button on the page. 
-<img src="https://github.com/geekquad/AlgoBook/blob/master/project/Readme_Images/pr.JPG">
 
 GitHub will alert you that you are able to merge the two branches because there is no competing code. You should add in a **title**, a **comment**, and then press the **“Create pull request”** button.
 
-<img src="https://github.com/geekquad/AlgoBook/blob/master/project/Readme_Images/create%20pr.JPG">
 
 ### Step 7: CONGRATULATIONS :boom: :clap: :relaxed:
 You have made it till the end. Kudos to you!!
@@ -108,7 +106,7 @@ You have made it till the end. Kudos to you!!
 #### For any more issues and queries, please join our <a href="https://discord.gg/Bvw8NR9VnM"> Discord server. </a>
 Feel free to reach out to us. Rememeber, collaboration is the key to open-source. 
 
-#### Please see the <a href="https://github.com/geekquad/AlgoBook/blob/master/CONTRIBUTING.md"> **Contributing Guidelines** </a>.
+#### Please see the <a href="https://github.com/vlx01/aibonito/blob/main/CONTRIBUTING.md"> **Contributing Guidelines** </a>.
 
 <hr> </hr>
 
@@ -125,6 +123,5 @@ Feel free to reach out to us. Rememeber, collaboration is the key to open-source
 
 ## Community
 
-Join our [Discord Server](https://discord.gg/Bvw8NR9VnM) to get help in contributing, as well as stay up-to-date on issues and best practices.
+Join us on the Discussion tab to get help in contributing, as well as stay up-to-date on issues and best practices.
 
-As always, thanks to our amazing contributors!
