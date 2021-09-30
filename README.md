@@ -61,7 +61,8 @@ Switched to branch 'new-branch'
 
 
 ### Step 3: Contribute
-Make relevant changes. Add new algorithms. Add Readme files. Contribute in any way you feel like :)
+Make relevant changes.
+Update images in **img folder** and the code snippet in **index.html**. 
 
         
 <img src="img\carbon.png"> </img>
