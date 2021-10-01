@@ -116,7 +116,7 @@ Feel free to reach out to us. Rememeber, collaboration is the key to open-source
 
 <table>
   <tbody><tr>
-    <td align="center"><a href="https://github.com/vlx01"><img alt="" src="https://avatars.githubusercontent.com/vlx01" width="100px;"><br><sub><b>Vsaishnavi Varshney</b></sub></a><br><a href="https://github.com/geekquad/AlgoBook/commits?author=vlx01" title="Code">💻 🖋</a></td></a></td>
+    <td align="center"><a href="https://github.com/vlx01"><img alt="" src="https://avatars.githubusercontent.com/vlx01" width="100px;"><br><sub><b>Vaishnavi Varshney</b></sub></a><br><a href="https://github.com/geekquad/AlgoBook/commits?author=vlx01" title="Code">💻 🖋</a></td></a></td>
     <td align="center"><a href="https://github.com/geekquad"><img alt="" src="https://avatars.githubusercontent.com/geekquad" width="100px;"><br><sub><b>Aditya Kumar Gupta</b></sub></a><br><a href="https://github.com/geekquad/AlgoBook/commits?author=geekquad" title="Code">💻 🖋</a></td> </a></td>
   </tr>
 </tbody></table>
