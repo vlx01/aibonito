@@ -82,6 +82,15 @@ img {
   padding: 1rem;
 }
 
+#logo {
+  display: inline-block;
+  align-content: center;
+  margin: 15px; /* margin: 20px was off */
+  float: none;
+  height: 60px;
+  width: auto; /* correct proportions to specified height */
+  border-radius: 50%; /* makes it a circle */
+}
 
 .text-primary {
   color: #c66c58;
