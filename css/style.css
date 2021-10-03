@@ -345,14 +345,15 @@ li {
   position: absolute;
   top: 60%;
   left: 50%;
-  width: 300px;
-  height: 400px;
+  width: 260px;
+  height: 360px;
   transform: translate(-50%, -50%);
   border-radius: 16px;
   overflow: hidden;
   box-shadow: 0 5px 18px rgba(0, 0, 0, 0.6);
   cursor: pointer;
   transition: 0.5s;
+}
   
   .card-image {
     position: absolute;
