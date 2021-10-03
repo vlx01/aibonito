@@ -82,15 +82,6 @@ img {
   padding: 1rem;
 }
 
-#logo {
-  display: inline-block;
-  align-content: center;
-  margin: 15px; /* margin: 20px was off */
-  float: none;
-  height: 60px;
-  width: auto; /* correct proportions to specified height */
-  border-radius: 50%; /* makes it a circle */
-}
 
 .text-primary {
   color: #c66c58;
@@ -354,15 +345,14 @@ li {
   position: absolute;
   top: 60%;
   left: 50%;
-  width: 260px;
-  height: 360px;
+  width: 300px;
+  height: 400px;
   transform: translate(-50%, -50%);
   border-radius: 16px;
   overflow: hidden;
   box-shadow: 0 5px 18px rgba(0, 0, 0, 0.6);
   cursor: pointer;
   transition: 0.5s;
-}
   
   .card-image {
     position: absolute;
@@ -398,7 +388,7 @@ li {
   z-index: 1;
   padding: 1rem;
 
-  h2 {
+  h2{
     margin: 30px 0;
     padding: 0;
     text-align: center;
