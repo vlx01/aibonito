@@ -80,17 +80,9 @@ img {
   justify-content: space-between;
   z-index: 1;
   padding: 1rem;
+  padding-top: 1.5rem;
 }
 
-#logo {
-  display: inline-block;
-  align-content: center;
-  margin: 15px; /* margin: 20px was off */
-  float: none;
-  height: 60px;
-  width: auto; /* correct proportions to specified height */
-  border-radius: 50%; /* makes it a circle */
-}
 
 .text-primary {
   color: #c66c58;
@@ -104,6 +96,8 @@ img {
 
 li {
   display: list-item;
+  transition: all 0.3s ease-in-out;
+
 }
 
 
@@ -111,11 +105,14 @@ li {
   /* color: #fff; */
   padding: 0.75rem;
   margin: 0 0.25rem;
+  transition: all 0.5s ease-in-out;
+ 
 }
 
 #navbar ul li a:hover {
   background-color: #bc4e3a;
   border-radius: 5px;
+  color: #fff;
 }
 
 
@@ -203,6 +200,16 @@ li {
 	left: 50%;
 	transform: translate(-50%, -50%);
 	position: absolute; */
+}
+
+#logo {
+  display: inline-block;
+  align-content: center;
+  margin: 15px; /* margin: 20px was off */
+  float: none;
+  height: 60px;
+  width: auto; /* correct proportions to specified height */
+  border-radius: 50%; /* makes it a circle */
 }
 
 .img-wrapper
@@ -362,8 +369,8 @@ li {
   box-shadow: 0 5px 18px rgba(0, 0, 0, 0.6);
   cursor: pointer;
   transition: 0.5s;
-  
-  .card-image {
+}
+.card-image {
     position: absolute;
     top: 0px;
     left: 0px;
@@ -374,11 +381,10 @@ li {
     transition: .5s;
   }
   
-  &:hover img {
+  .card-image:hover img {
     opacity: 0.4;
     transition: .5s;
   }
-}
 
 .card:hover .card-image {
   transform: translateY(-100px);
@@ -392,24 +398,23 @@ li {
   bottom: 0;
   left: 0;
   background: #fff;
-  width: 100%;
+  width: 89%;
   height: 100px;
   z-index: 1;
   padding: 1rem;
-
-  h2 {
-    margin: 30px 0;
-    padding: 0;
-    text-align: center;
-     
-    .job-title {
-        font-size: 1rem;
-        line-height: 2.5rem;
-        color: #333;
-        font-weight: 300;
-    }
-  }
+  
+ 
 }
-
-
-
+.h2{
+  margin: 30px 0;
+  padding: 0;
+  text-align: center;
+   
+  
+}
+.job-title {
+  font-size: 1rem;
+  line-height: 2.5rem;
+  color: #333;
+  font-weight: 300;
+}
