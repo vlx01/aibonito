@@ -75,7 +75,6 @@ img {
   display: flex;
   position: sticky;
   top: 0;
-  background: d36c55;
   color: #fff;
   justify-content: space-between;
   z-index: 1;
@@ -353,7 +352,7 @@ li {
 
 .card-wrapper {
   width: 400px;
-  height: 500px;
+  height: 552px;
   position: relative;
 }
 
@@ -398,7 +397,7 @@ li {
   bottom: 0;
   left: 0;
   background: #fff;
-  width: 89%;
+  width: 90%;
   height: 100px;
   z-index: 1;
   padding: 1rem;
