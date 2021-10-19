@@ -7,7 +7,7 @@
 }
 
 body {
-  font-family: 'Open Sans', Arial, sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 /* content picture {
@@ -19,6 +19,12 @@ body {
   text-align: center;
   width: 250px;
 } */
+
+/*main heading of navbar*/
+#main-heading{
+  font-size:1.5rem;
+  font-weight: bold;
+}
 
 #content {
   background: #333 url(../img/Hackfest.png) no-repeat center center/cover;
@@ -105,6 +111,7 @@ li {
   /* color: #fff; */
   padding: 0.75rem;
   margin: 0 0.25rem;
+  font-size:1.3rem;
   transition: all 0.5s ease-in-out;
  
 }
